@@ -1,0 +1,2 @@
+# research_pub
+nislab内部向けにissuesのテンプレートを共有
